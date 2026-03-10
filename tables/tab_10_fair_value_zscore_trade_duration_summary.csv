@@ -1,0 +1,2 @@
+number_of_trades,avg_holding_days,median_holding_days,min_holding_days,max_holding_days,avg_holding_calendar_days,median_holding_calendar_days,pct_profitable_trades,avg_net_pnl_per_trade,median_net_pnl_per_trade
+50,32.8,19.0,1,199,48.34,29.5,0.64,74705.89600309207,114257.2737074852

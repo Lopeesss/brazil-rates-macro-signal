@@ -1,0 +1,11 @@
+variable,description
+fwd_1y1y,1y1y forward rate from DI curve
+fwd_5y5y,5y5y forward rate from DI curve
+spread_5y5y_minus_1y1y,Slope spread defined as 5y5y - 1y1y
+ipca_mom,Monthly IPCA inflation (% m/m)
+ipca_12m,Realized IPCA over 12 months (%)
+ipca_3m_saar,3-month annualized inflation proxy (%)
+focus_ipca_12m,Focus inflation expectation for the next 12 months (%)
+inflation_expectations_gap,Focus 12m inflation minus realized IPCA 12m
+inflation_persistence_gap,Focus 12m inflation minus 3m annualized inflation proxy
+ibc_br_sa_level,IBC-Br seasonally adjusted level

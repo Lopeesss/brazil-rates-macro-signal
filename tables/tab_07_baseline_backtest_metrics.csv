@@ -1,0 +1,2 @@
+strategy,n_days,total_net_pnl_bp,total_gross_pnl_bp,annualized_mean_bp,annualized_vol_bp,sharpe,max_drawdown_bp,avg_abs_position,avg_daily_turnover,active_days_pct,hit_ratio_active_days
+baseline_main_factor_21d,4008,-119.8883892484676,-109.34290696320816,-7.537892737179101,11.254201259115938,-0.6697847820229255,-133.56066060257294,0.021852414810833658,0.002630452054192918,0.2446994262908456,0.49133537206931704

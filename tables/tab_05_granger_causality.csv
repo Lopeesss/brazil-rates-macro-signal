@@ -1,0 +1,9 @@
+factor,lag_weeks,pvalue_x_causes_y
+Inflation expectations gap,1,0.40417395766399866
+Inflation expectations gap,2,0.48391594427399276
+Inflation expectations gap,3,0.6059561428148403
+Inflation expectations gap,4,0.6563495720621053
+Inflation persistence gap,1,0.48846274344373786
+Inflation persistence gap,2,0.7909946552078071
+Inflation persistence gap,3,0.48406700408908176
+Inflation persistence gap,4,0.18305785620556747
